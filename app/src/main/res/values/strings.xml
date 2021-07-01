@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMedications</string>
+    <string name="error_message_text">Download error</string>
+    <string name="refresh_btn_text">Refresh</string>
+</resources>
